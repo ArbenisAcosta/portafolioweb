@@ -1,0 +1,20 @@
+{
+  "slug": "online",
+  "title": "Cursos en línea",
+  "description": "Cursos finalizados en plataformas de internet",
+  "items": [
+    {
+      "name": "Programación desde cero",
+      "url": "https://ed.team/cursos/programacion"
+    },
+    {
+      "name": "Markdown Desde Cero",
+      "url": "https://ed.team/cursos/markdown"
+    },
+    {
+      "name": "JavaScript Desde Cero",
+      "url": "https://ed.team/cursos/javascript"
+    }
+
+  ]
+}

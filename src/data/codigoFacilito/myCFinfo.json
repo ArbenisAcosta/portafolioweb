@@ -1,0 +1,81 @@
+{
+    "data": {
+        "email": "arbenisacosta15@gmail.com",
+        "username": "arbenisacosta15",
+        "certificates": [],
+        "articles": [],
+        "courses": [{
+                "title": "Curso Profesional de JAVA",
+                "progress": "2.0",
+                "url": "http://codigofacilito.com/courses/java-profesional"
+            },
+            {
+                "title": "El glosario del JAMStack",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/glosario-jamstack"
+            },
+            {
+                "title": "Curso Profesional Desarrollo Web",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/frontend-profesional"
+            },
+            {
+                "title": "Curso de Programación Orientada a Objetos",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/programacion-orientada-a-objetos"
+            },
+            {
+                "title": "Curso para crear mi primera página web",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/primera-pagina-2019"
+            },
+            {
+                "title": "Curso Profesional de Backend",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/backend-profesional"
+            },
+            {
+                "title": "Curso de introducción a Ruby on Rails",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/introduccion-rails"
+            },
+            {
+                "title": "Curso de introducción a la programación",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/introduccion"
+            },
+            {
+                "title": "Curso de introducción a los Algoritmos",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/algoritmos"
+            },
+            {
+                "title": "Curso de Introducción a la Programación Nivel II",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/fundamentos-programacion"
+            },
+            {
+                "title": "Curso para crear un juego con Pygame",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/pygame-videojuego"
+            },
+            {
+                "title": "Fundamentos de escritura para programadores",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/escritura-programadores"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "53.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title": "Curso gratis de Ruby",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/ruby-2"
+            }
+        ],
+        "finished_courses": []
+    },
+    "errors": []
+}

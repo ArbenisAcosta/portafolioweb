@@ -1,0 +1,13 @@
+{
+  "slug": "presencial",
+  "title": "Formación académica",
+  "description": "Formación académica, grados de estudio e instituciones a las que asisti",
+  "items": [
+    {
+      "name": "Universidad Nacional Experimental Politpecnica de las Fuerzas Armadas",
+      "degree": "Tecnico Superior Universitario en Analisis y Diseño de Sistemas",
+      "score": "15 / 20"
+    }
+
+  ]
+}

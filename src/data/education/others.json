@@ -1,0 +1,13 @@
+{
+  "slug": "others",
+  "title": "Otros logros académcos",
+  "description": "Talleres, díplomados",
+  "items": [
+    {
+      "name": "INCES",
+      "degree": "Excel",
+      "score": "20"
+    }
+
+  ]
+}
