@@ -4,7 +4,7 @@ export default (props) => {
   const course = props.element
 
   return (
-    <div className=" shadow-xl p-8 bg-white mr-4 mt-4 rounded-lg flex-shrink-0" style={{width:"300px"}}> 
+    <div className=" shadow-xl p-8 bg-white mr-4 mt-4 rounded-lg flex-shrink-0" style={{width:"200px"}}> 
 
       <h4 className="text-center font-bold h-20 overflow-y-hidden">
           <a href={course.url} target="_blank" rel="noopener noreferrer">{course.title}</a>

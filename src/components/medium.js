@@ -35,7 +35,7 @@ export default () => {
       <Posts 
         data={posts} 
         card={Post}
-        title="Publicaiones de Medium"/>
+        title="Publicaciones de Medium"/>
     </div>
   )
 

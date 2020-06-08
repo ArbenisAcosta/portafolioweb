@@ -20,7 +20,7 @@ export default () => {
     return (
         <section>
             <div className="mt-24">
-                <div className="max-w-4xl mx-auto overflow-y-hidden">
+                <div className="max-w-4xl mx-auto ">
 
                     <Posts 
                         data={data.codigoFacilitoJson.data.courses} 
